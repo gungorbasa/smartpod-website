@@ -141,3 +141,6 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+url: gungorbasa.github.io
+baseurl: /smartpod-website
