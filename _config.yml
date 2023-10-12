@@ -1,5 +1,5 @@
 #page title
-page_title                                :  SmartPod App                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                :  Smartpod App                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/app_icon.jpeg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : SmartPod                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Smartpod                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Welcome to Smartpod, your gateway to a world of personalized podcasting like never before! With Smartpod, you're not just a listener; you're the curator of your own audio experience.
 
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : SmartPod Team                              
+your_name                                 : Smartpod Team                              
 your_link                                 :                    
 your_city                                 : Ankara                                
 email_address                             : gungorbasa@gmail.com
